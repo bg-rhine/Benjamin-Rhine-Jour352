@@ -1,13 +1,23 @@
 
-
-body, h1, h2, h3, p, ul, li {
+/* General body styles */
+body {
     font-family: 'Open Sans', Arial, sans-serif;
     font-size: 1em;
     color: #444;
     font-weight: 400;
 }
 
-<!-- name at top of resume --->
+
+/*container */
+#container {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding-bottom: 50px;
+}
+
+
+/* name at top */
 #name {
     font-size: 3em;
     color: #33485e;
@@ -20,16 +30,18 @@ body, h1, h2, h3, p, ul, li {
     margin: 0 auto;
 }
 
-<!-- title under name --->
+/* title below name */
 #title {
     font-size: 1.5em;
     color: #33485e;
     text-transform: uppercase;
-    font-weight: 400;
+    font-weight: 600;
     text-align: center;
     margin: 20px 0 0 0;
 }
 
+
+/* section titles */
 .section-title {
     font-size: 1.5em;
     color: white;
@@ -41,38 +53,83 @@ body, h1, h2, h3, p, ul, li {
     min-width: 300px;
 }
 
-.title {
-    font-size: 1.5em;
-    color: #33485e;
-    text-transform: uppercase;
-    font-weight: 400;
-}
 
+/* job titles */
 .jobtitle {
     font-size: 1.5em;
     font-weight: 600;
 }
 
+
+/* job dates */
 .jobdate {
     font-size: 1em;
     font-style: italic;
     font-weight: 400;
+    margin: 2px 0 0 0;
 }
 
+
+/* job organizations */
 .joborganization {
-    font-size: 1.5em;
+    font-size: 1.25em;
     font-weight: 400;
 }
 
-.contact li {
+
+/* job descriptions */
+.jobdescription {
     font-size: 1em;
+    font-weight: 400;
+    margin: 20px 0;
 }
 
-.skills li {
-    font-size: 1em;
+
+/* contact information section */
+.menu {
+    margin: 0;
+    padding: 0;
+    text-align: center; 
 }
 
-.education li {
+
+/* contact information list*/
+.menu li {
+    display: inline;
     font-size: 1em;
+    font-weight: 400;
+}
+
+/* education section */
+#degrees {
+    margin: 5px 0 0 0;
+}
+
+/* education list */
+#degrees li {
+    font-size: 1em;
+    font-weight: 400;
+}
+
+
+/* skills section */
+#skills {
+    margin: 5px 0 0 0;
+}
+
+
+/* skills list */
+#skills li {
+    font-size: 1em;
+    font-weight: 400;
+}
+
+
+/* summary at top */
+.summary {
+    width: 60%;
+    min-width: 300px;
+    margin: 0 auto;
+    margin-bottom: 30px;
 }
 
