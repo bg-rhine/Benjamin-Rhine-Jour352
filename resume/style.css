@@ -13,3 +13,27 @@ h1 {
     text-transform: uppercase;
     text-align: center;
 }
+
+h2 {
+    font-size: 1.5em;
+    color: white;
+    background-color: #33485e;
+    text-transform: uppercase;
+    font-weight: 400;
+}
+
+.jobtitle {
+    font-size: 1.5em;
+    font-weight: 600;
+}
+
+.jobdate {
+    font-size: 1em;
+    font-style: italic;
+    font-weight: 400;
+}
+
+.joborganization {
+    font-size: 1.5em;
+    font-weight: 400;
+}
