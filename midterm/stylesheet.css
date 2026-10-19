@@ -29,9 +29,9 @@ p {
 
 #content {
     margin: 0 auto;
-    max-width: 700px;
-    width: 80%;
-    padding: 30px;
+    max-width: 900px;
+    width: 100%;
+    padding: 10px;
     box-sizing: border-box;
 }
 
@@ -46,7 +46,7 @@ p {
 }
 
 .photo {
-    width: 70%;
+    width: 75%;
     margin: 30px auto;
 }
 
