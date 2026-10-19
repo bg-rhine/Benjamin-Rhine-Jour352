@@ -97,8 +97,8 @@ blockquote {
 #read-more {
     margin-top: 40px;
     padding: 20px;
-    background-color: #f5f5f5;
-    border-top: 3px solid #1c3041;
+    background-color: #334155;
+    border-top: 3px solid #94a3b8;
 }
 
 #read-more h3 {
@@ -108,11 +108,9 @@ blockquote {
 
 #read-more li {
     margin-bottom: 12px;
-    background-color: #334155;
-    border-top: 3px solid #94a3b8;
 }
 
-read-more a {
+#read-more a {
     font-family: Helvetica, sans-serif;
     font-size: 15px;
     color: #f1f5f9;
