@@ -34,3 +34,16 @@ img {
     margin: 0 auto;
     padding: 20px;
 }
+
+#byline {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    color: grey;
+    margin-top: 15px;
+    margin-bottom: 25px;
+}
+
+#byline p {
+    font-size: 14px;
+    margin: 5px 0;
+}
