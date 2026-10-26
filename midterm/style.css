@@ -35,6 +35,7 @@ img {
     padding: 20px;
 }
 
+/* styles for the authors name and date of publication */
 #byline {
     font-family: Helvetica, Arial, sans-serif;
     font-size: 14px;
@@ -57,4 +58,22 @@ img {
 
 .related-aricles li {
     margin-bottom: 12px;
+}
+
+blockquote {
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 28px;
+    font-style: italic;
+    border-left: 5px;
+    padding: 20px;
+    margin: 40px 0;
+    line-height: 1.5;
+}
+
+.quote-credit {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    margin-top: 15px;
+    margin-bottom: 0;
 }
