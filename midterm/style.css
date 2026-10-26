@@ -28,3 +28,9 @@ img {
     margin-top: 8px;
     margin-bottom: 30px;
 }
+
+#container {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 20px;
+}
