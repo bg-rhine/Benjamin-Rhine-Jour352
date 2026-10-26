@@ -64,7 +64,7 @@ blockquote {
     font-family: Georgia, "Times New Roman", serif;
     font-size: 28px;
     font-style: italic;
-    border-left: 5px;
+    border-left: 5px solid darkgreen;
     padding: 20px;
     margin: 40px 0;
     line-height: 1.5;
