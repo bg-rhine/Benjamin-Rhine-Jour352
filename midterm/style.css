@@ -47,3 +47,14 @@ img {
     font-size: 14px;
     margin: 5px 0;
 }
+
+.related-articles {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.7;
+    margin-bottom: 40px;
+}
+
+.related-aricles li {
+    margin-bottom: 12px;
+}
