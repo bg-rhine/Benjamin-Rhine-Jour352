@@ -92,3 +92,10 @@ blockquote {
     margin-bottom: 0;
     color: #7A4E2D;
 }
+
+#masthead {
+    display: block;
+    width: 100%;
+    height: auto;
+    margin: 0 0 35px 0;
+}
