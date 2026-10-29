@@ -88,9 +88,11 @@ body {
 }
 
 .headshot {
-    width: 100%;
-    max-width: 280px;
-    border-radius: 5px;
+    width: 220px;
+    height: 220px;
+    object-fit: cover;
+    object-position: center 40%;
+    border-radius: 20px;
 }
 
 .about-section p {
