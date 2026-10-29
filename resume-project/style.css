@@ -82,9 +82,17 @@ body {
 
 .section-heading {
     font-size: 2rem;
-    font-weight: 700;
-    color: #33485e;
-    margin-bottom: 30px;
+    font-weight: 600;
+    color: #929184;
+    margin-bottom: 25px;
+    padding-bottom: 8px;
+    border-bottom: 1px solid #929184;
+}
+
+.photo-background {
+    background-color:#33485e ;
+    padding: 10px 10px 10px 35px;
+    width: 270px;
 }
 
 .headshot {
@@ -92,7 +100,7 @@ body {
     height: 220px;
     object-fit: cover;
     object-position: center 40%;
-    border-radius: 20px;
+    border-radius: 20px 0 0 20px;
 }
 
 .about-section p {
