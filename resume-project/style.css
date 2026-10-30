@@ -1,5 +1,6 @@
 body {
     font-family: 'Manrope', sans-serif;
+    font-size: 18px;
     margin: 0;
     background-color: #f5f5f5;
     color: #333;
@@ -60,7 +61,7 @@ body {
 }
 
 .masthead p {
-    font-size: 1rem;
+    font-size: 1.3rem;
     margin-bottom: 0;
 }
 
@@ -109,7 +110,7 @@ body {
 }
 
 .about-section p {
-    font-size: 1rem;
+    font-size: 1.3rem;
     line-height: 1.8;
     margin-bottom: 20px;
 }
@@ -136,24 +137,24 @@ body {
 }
 
 .experience-item h3 {
-    font-size: 1.3rem;
+    font-size: 1.5rem;
     font-weight: 700;
     color: #33485e;
 }
 
 .experience-item h4 {
-    font-size: 1.1rem;
+    font-size: 1.3rem;
     font-weight: 600;
     color: #333;
 }
 
 .experience-item p {
-    font-size: 1rem;
+    font-size: 1.2rem;
     line-height: 1.7;
 }
 
 .job-date {
-    font-size: 0.9rem;
+    font-size: 1.1rem;
     color: #777;
 }
 
@@ -167,24 +168,24 @@ body {
 }
 
 .education-item h3 {
-    font-size: 1.3rem;
+    font-size: 1.5rem;
     font-weight: 700;
     color: #33485e;
 }
 
 .education-item h4 {
-    font-size: 1.1rem;
+    font-size: 1.3rem;
     font-weight: 600;
     color: #333;
 }
 
 .education-item p {
-    font-size: 1rem;
+    font-size: 1.2rem;
     line-height: 1.7;
 }
 
 .education-date {
-    font-size: 0.9rem;
+    font-size: 1.1rem;
     color: #777;
 }
 
@@ -203,7 +204,7 @@ body {
     color: white;
     padding: 35px 15px;
     text-align: center;
-    font-size: 1rem;
+    font-size: 1.2rem;
     font-weight: 600;
     border-radius: 4px;
     height: 100%;
@@ -217,7 +218,7 @@ body {
 
 .footer p {
     margin-bottom: 0;
-    font-size: 0.9rem;
+    font-size: 1.1rem;
 }
 
 .footer-contact {
