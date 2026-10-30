@@ -1,8 +1,12 @@
 body {
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Manrope', sans-serif;
     margin: 0;
     background-color: #f5f5f5;
     color: #333;
+}
+
+.masthead h1, .masthead h2, .section-heading {
+    font-family: 'Space Grotesk', sans-serif;
 }
 
 .navbar {
