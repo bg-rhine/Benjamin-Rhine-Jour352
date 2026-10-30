@@ -17,7 +17,7 @@ body {
 .nav-link {
     color: white;
     font-weight: 500;
-    margin-left: 20px;
+    margin: 0 10px;
 }
 
 .nav-link:hover, .nav-link:focus {
