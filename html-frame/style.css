@@ -56,3 +56,14 @@
     line-height: 1.7;
     margin-bottom: 20px;
 }
+
+.footer {
+    background-color: rgb(116, 107, 107);
+    color: white;
+    text-align: center;
+    padding: 30px 20px;
+}
+
+.footer p {
+    margin-bottom: 0;
+}
